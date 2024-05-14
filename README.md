@@ -1,1 +1,1 @@
-Smart Fridge project from 2022/2023, sumbitted as aproject for Programming 3
+Smart Fridge project from 2022/2023, submitted as aproject for Programming 3
