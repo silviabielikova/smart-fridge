@@ -1,0 +1,11 @@
+Inteligentná chladnička s tovarmi, expiráciami, zásobami a nákupnými zoznamami
+
+- pridávanie položiek do chladničky (aj ako import zo súboru)
+- produkt má názov a kategóriu
+- konkrétna položka je charakterizovaná produktom, dátumom expirácie a ID
+- vyberanie z chladničky (kus podľa najbližšieho dátumu expirácie)
+- získanie všetkých momentálnych zásob, získanie položiek, ktoré idú expirovať
+- vytváranie, modifikovanie nákupných zoznamov, ich export do textových súborov
+- automatické udržiavanie nákupného zoznamu základných potravín - manuálna úprava tohto zoznamu a množiny základných produktov
+
+-triedy Date, Product, ProductDatabase, ShoppingList, Item, Fridge a ich metódy
